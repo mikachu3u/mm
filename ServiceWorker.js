@@ -1,4 +1,4 @@
-const cacheName = "DefaultCompany-AR1031-0.1.0";
+const cacheName = "DefaultCompany-MKAR-0.1.0";
 const contentToCache = [
     "Build/發佈檔.loader.js",
     "Build/發佈檔.framework.js",
